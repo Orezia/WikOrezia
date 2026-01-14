@@ -51,4 +51,4 @@ description: Règlement Général du serveur Orezia.
 
 
 
-_Dernière mise à jour : 01/05/2022_
+_Dernière mise à jour : 14/01/2026_

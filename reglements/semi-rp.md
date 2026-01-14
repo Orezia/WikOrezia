@@ -80,4 +80,4 @@ description: Règlement du Semi-RP d'Orezia.
 
 
 
-_Dernière mise à jour : 02/11/2022_
+_Dernière mise à jour : 14/01/2026_

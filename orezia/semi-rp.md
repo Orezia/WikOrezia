@@ -2,6 +2,7 @@
 description: >-
   Bienvenue sur le serveur Orezia, ici tu pourras retrouver le tutoriel complet
   du serveur semi-rp afin de jouer dans les meilleures conditions possibles.
+hidden: true
 ---
 
 # Serveur Semi-RP

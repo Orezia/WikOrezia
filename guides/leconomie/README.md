@@ -1,5 +1,6 @@
 ---
 description: De la monnaie, au échoppes, en passant par le troc.
+hidden: true
 ---
 
 # L'Économie

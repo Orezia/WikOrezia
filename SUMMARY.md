@@ -2,7 +2,6 @@
 
 * [Accueil](README.md)
 * [Discord](https://discord.oreziamc.fr)
-* [Map](https://map.oreziamc.fr)
 * [Boutique](https://boutique.oreziamc.fr/)
 
 ## 📖 Règlements

@@ -2,6 +2,7 @@
 description: >-
   Tu peux retrouver ici toutes les commandes disponibles sur Orezia. Certaines
   sections redirigent directement vers la page dédié.
+hidden: true
 ---
 
 # Les Commandes

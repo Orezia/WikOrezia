@@ -47,7 +47,7 @@ description: Règlement Général du serveur Orezia.
 
 * Il est interdit de faire profiter quelqu’un ne possédant pas les avantages de la boutique lorsqu’on les possède soi-même. Les mini-blocs ne peuvent être possédés et posés que chez les personnes les possédant. De même pour les ascenseurs ou l’édition de porte-armure.
 * Si vous êtes maire d’une ville et que vous possédez des avantages vous avez le droit de les utiliser sur l’ensemble de votre terrain.
-* La vente et l’achat de contenu virtuel sont strictement interdits (par exemple, des orez contre de l’argent réel). Mais, l’échange de contenu virtuel contre un contenu payant de la boutique d’Orezia est autorisé (des orez contre des points boutiques). Le contenu vendu illégalement sera supprimé et les acteurs sanctionnés.
+* La vente et l’achat de contenu virtuel sont strictement interdits (par exemple, des orez contre de l’argent réel). Mais, l’échange de contenu virtuel contre un contenu payant de la boutique d’Orezia est autorisé (des orez contre un grade boutique par exemple). Le contenu vendu illégalement sera supprimé et les acteurs sanctionnés.
 
 
 

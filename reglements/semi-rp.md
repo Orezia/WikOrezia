@@ -42,7 +42,6 @@ description: Règlement du Semi-RP d'Orezia.
 * Avant de créer votre ville, vérifiez qu’il n’existe pas une autre ville proche. Il existe une limite de minimum 10 chunks entre 2 villes, mais il est conseillé de demander au maire de la ville s'il compte s’expandre de votre côté si vous voulez vous installer à côté.
 * Il est interdit de créer votre ville sur un projet abandonné, c'est considéré comme du vol.
 * Si une ville vous empêche de vous expandre et que le maire est afk depuis plus d’un mois, contactez l’administration par un ticket sur discord pour trouver une solution.
-* Si vous souhaitez recruter pour vos projets, il est obligatoire d'utiliser le canal dédié avec le commande `/recrute <message>`.
 
 ## Article 7 - Les Parcelles
 
@@ -57,7 +56,6 @@ description: Règlement du Semi-RP d'Orezia.
 
 * Toute tentative d’arnaque sera sanctionnée.
 * Lorsque vous vendez un équipement par l’hôtel de vente, ou par le biais des échoppes personnels, il est interdit de le vendre avec peu de durabilité, ou l’impossibilité de le réparer.
-* Si vous souhaitez faire une annonce de vente ou une publicité pour vos échoppes, il est obligatoire d'utiliser le canal dédié avec la commande `/commerce <message>`.
 
 ## Article 9 - Le jeu en équipe
 
